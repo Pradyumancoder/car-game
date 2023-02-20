@@ -171,21 +171,13 @@
                         
                     }
 
-
-
                     if(enemyCar.y >= 750){
                         console.log(enemyCar.y,"y")
                         enemyCar.y = -300;
                         enemyCar.style.left = Math.floor(Math.random() * 350) + "px";
                     }
 
-                    
-
-
-                    
-                      
-                    
-
+                  
                     enemyCar.y += player.speed;
                     enemyCar.style.top = enemyCar.y + "px";
                 })
@@ -214,7 +206,7 @@
 
                     window.requestAnimationFrame(runGame);
 
-                    // player.score++;
+                    player.score++;
                     
                     console.log(player.score,"",player.speed)
                     score.innerText = "Score: " + player.score + "\nSpeed: " + player.speed;
@@ -258,8 +250,6 @@
                 }
             }
 
-
-     
 
         </script>
 
