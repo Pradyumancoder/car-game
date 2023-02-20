@@ -15,12 +15,15 @@
 ![Screenshot (13)](https://user-images.githubusercontent.com/97114184/220112408-9d2f2f43-a0ca-4778-b2f1-f88a0f3af7c0.png)
 
 #Instruction
-1-Tab Left Button of your keyboard to move your car left side
-2-Tab Right Button of your keyboard to move your car right side
-3-Tab Top Button of your keyboard to move your car up side
-4-Tab Down Button of your keyboard to move your car down side
-
+<ol>
+  <li>1-Tab Left Button of your keyboard to move your car left side</li>
+ <li>2-Tab Right Button of your keyboard to move your car right side</li>
+ <li>3-Tab Top Button of your keyboard to move your car up side</li>
+ <li>4-Tab Down Button of your keyboard to move your car down side</li>
+</ol>
 <h4>Teach Stack</h4>
-1-Html
-2-Css
-3-JavaScript
+<ol>
+<li>1-Html</li>
+<li>2-Css</li>
+<li>3-JavaScript</li>
+</ol>
