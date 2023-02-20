@@ -16,14 +16,14 @@
 
 #Instruction
 <ol>
-  <li>1-Tab Left Button of your keyboard to move your car left side</li>
- <li>2-Tab Right Button of your keyboard to move your car right side</li>
- <li>3-Tab Top Button of your keyboard to move your car up side</li>
- <li>4-Tab Down Button of your keyboard to move your car down side</li>
+  <li>-Tab Left Button of your keyboard to move your car left side</li>
+ <li>-Tab Right Button of your keyboard to move your car right side</li>
+ <li>-Tab Top Button of your keyboard to move your car up side</li>
+ <li>-Tab Down Button of your keyboard to move your car down side</li>
 </ol>
 <h4>Teach Stack</h4>
 <ol>
-<li>1-Html</li>
-<li>2-Css</li>
-<li>3-JavaScript</li>
+<li>-Html</li>
+<li>-Css</li>
+<li>-JavaScript</li>
 </ol>
